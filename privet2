@@ -1,11 +1,5 @@
 [
   {
-    "character" : {
-      "id" : "sber"
-    },
-    "type" : "character"
-  },
-  {
     "app_context" : {
       "app_info" : {
         "appearance" : {
