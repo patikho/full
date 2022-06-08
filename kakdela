@@ -35,8 +35,7 @@
         "ageLimit": 18,
         "applicationId": "8e8b3b3d-9798-4203-a2fd-e3a0a7bab216",
         "availableOrientations" : [
-          "landscape",
-          "portrait"
+          "landscape"
         ],
         "canvasType" : "full_screen"
     },
