@@ -34,8 +34,11 @@
         "appversionId": "6f8c183a-defb-4d7c-b362-da70fd6d9808",
         "ageLimit": 18,
         "applicationId": "8e8b3b3d-9798-4203-a2fd-e3a0a7bab216",
-        "availableOrientations":
-        []
+        "availableOrientations" : [
+          "landscape",
+          "portrait"
+        ],
+        "canvasType" : "full_screen"
     },
     "items":
     [
