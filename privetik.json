@@ -9,7 +9,7 @@
 		},
 		"applicationId": "8b91caec-e047-489d-889c-3d4b8a2e9346",
 		"appversionId": "f9bc0a9c-fd53-458b-a8f9-5a22dbf9e0a7",
-		"frontendEndpoint": "https://spasibo.prom.app.sberdevices.ru/",
+		"frontendEndpoint": "https://spasibo.ift.app.sberdevices.ru/sber/@mobile/spasibo-info",
 		"frontendStateId": "484eabe8-9fee-4402-abc9-4734120cab82",
 		"frontendType": "WEB_APP",
 		"projectId": "14dd29e8-fc60-493f-8aeb-6528e20f610d",
