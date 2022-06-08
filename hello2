@@ -1,0 +1,98 @@
+{
+    "debug_info":
+    {},
+    "activate_app_info": true,
+    "auto_listening": true,
+    "projectName": "Бонусы",
+    "intent": "run_app",
+    "app_info":
+    {
+        "projectId": "6bdd58e0-11b7-46c8-9d84-2fd48b0d5ec0",
+        "applicationId": "a39ea338-5e88-4eae-bf8a-45c22faac847",
+        "appversionId": "4086d1cb-4dd7-43e8-851a-54f9357a2e9f",
+        "systemName": "Sto_k_odnomu",
+        "frontendEndpoint": "https://spasibo.prom.app.sberdevices.ru/",
+        "frontendType": "WEB_APP",
+        "apkInfo":
+        {},
+        "ageLimit": 6,
+        "affiliationType": "EXTERNAL",
+        "frontendStateId": "4410a5b3-5240-4109-b22b-a3bf635255aa_8e8b3b3d-9798-4203-a2fd-e3a0a7bab216_6f8c183a-defb-4d7c-b362-da70fd6d9808",
+        "securityAccess":
+        {},
+        "appearance":
+        {
+            "header":
+            {
+                "title": "Бонусы",
+                "icon":
+                {
+                    "type": "url",
+                    "url": "https://cdn.sberdevices.ru/VA/icons/spasibo_icon.png",
+                    "hash": "51e9201c01fa810ca92c964f7ad7b097"
+                }
+            }
+        },
+        "allowFastRunApp": false,
+        "availableOrientations":
+        []
+    },
+    "items":
+    [
+        {
+            "bubble":
+            {
+                "text": "У нас вкусный попкорн, чипсы, кола и многое другое. Хотите заказать?"
+            }
+        },
+        {
+            "command":
+            {
+                "type": "smart_app_data",
+                "smart_app_data":
+                {
+                    "debug": 0,
+                    "request": false,
+                    "question":
+                    {
+                        "q": "Сто к одному"
+                    },
+                    "users":
+                    [],
+                    "text": "Добро пожаловать в игру «Сто к одному».\nЦель игры в том, чтобы угадать шесть наиболее распространённых ответов случайных людей на предложенный им вопрос, на который невозможно дать однозначный ответ.\nХотите поиграть?"
+                }
+            }
+        }
+    ],
+    "assistant_items":
+    [
+        {
+            "bubble":
+            {
+                "text": "Сообщение ассистенту"
+            }
+        },
+        {
+            "card":
+            {
+                "type": "list_card",
+                "cells":
+                [
+                    {
+                        "type": "image_cell_view",
+                        "content":
+                        {
+                            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
+                            "hash": "18b48d8865e9d9338b481c81b40c6806",
+                            "size":
+                            {
+                                "width": "resizable",
+                                "aspect_ratio": 1.45
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
